@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2a5d5a;
+}
+.title {
+  width: 636px;
+  color: white;
+  font-weight: 700;
+  font-size: 64px;
+  background-color: #311313;
+  text-align: center;
+  padding: 25px;
+  margin: 0 auto;
+  margin-top: 22px;
+}
+.modil {
+  width: 1000px;
+  background-color: black;
+  border: 10px solid red;
+  padding: 50px;
+  margin: 61px auto;
+}
+.box {
+  background-color: aquamarine;
+  padding: 54px 40px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.tepa {
+  margin-top: 30px;
+}
